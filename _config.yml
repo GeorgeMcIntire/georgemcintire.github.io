@@ -45,8 +45,8 @@ google_analytics: <script>
 
   ga('create', 'UA-72723209-1', 'auto');
   ga('send', 'pageview');
-
 </script>
+
 url:
 
 # If you're hosting your site at a Project repository on GitHub pages
